@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/rodrigo.slemos/)
 
 ### I am Rodrigo, a self-learning FullStack Developer from Brazil. 
-I enjoy all steps of development, from design to deployment, learning new techniques and bringing life to ideias!
+I enjoy all steps of development, from design to deployment, learning new techniques and bringing ideias to life!
 
 
 ## My Tech Stack
