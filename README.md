@@ -9,7 +9,7 @@ I enjoy all steps of development, from design to deployment, learning new techni
 
 ## My Tech Stack
   - ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=JavaScript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=TypeScript&logoColor=#3178C6)
   ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=PHP&logoColor=777BB4)
   - ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=HTML5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -18,3 +18,4 @@ I enjoy all steps of development, from design to deployment, learning new techni
   - ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=Node.js&logoColor=339933)
   ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=MySQL&logoColor=4479A1)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=MongoDB&logoColor=47A248)
+  - ![ReactNative](https://img.shields.io/badge/-ReactNative-333?style=flat&logo=React&logoColor=61DAFB)
