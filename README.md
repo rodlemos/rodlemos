@@ -21,6 +21,6 @@ I enjoy all steps of development, from design to deployment, learning new techni
   ![React](https://img.shields.io/badge/-React-333?style=flat&logo=React&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=Next.js&logoColor=white)
   
-  #### :eyes: Interested:
+  #### :eye: Interested:
    - ![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=Flutter&logoColor=02569B)
    ![C#](https://img.shields.io/badge/-C%20Sharp-333?style=flat&logo=CSharp&logoColor=239120)
