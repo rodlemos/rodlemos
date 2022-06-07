@@ -5,7 +5,7 @@
 ### I am Rodrigo, a self-learning FullStack Developer from Brazil. 
 I enjoy all steps of development, from design to deployment, learning new techniques and bringing ideias to life!
 
-#### :electric_plug: Current focused: 
+#### :electric_plug: currently focused on: 
   - ![ReactNative](https://img.shields.io/badge/-ReactNative-333?style=flat&logo=React&logoColor=61DAFB)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=TypeScript&logoColor=#3178C6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=Node.js&logoColor=339933)
