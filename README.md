@@ -6,7 +6,7 @@
 I enjoy all steps of development, from design to deployment, learning new techniques and bringing ideias to life!
 
 #### :electric_plug: currently focused on: 
-  - ![React](https://img.shields.io/badge/-React-333?style=flat&logo=React&logoColor=61DAFB)
+  - ![React Native](https://img.shields.io/badge/-React-333?style=flat&logo=React&logoColor=61DAFB)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=TypeScript&logoColor=#3178C6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=Node.js&logoColor=339933)
   
@@ -22,5 +22,5 @@ I enjoy all steps of development, from design to deployment, learning new techni
   ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=Next.js&logoColor=white)
   
   #### :eye: Interested:
-   - ![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=Flutter&logoColor=02569B)
+   - ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=Kotlin&logoColor=7F52FF)
    ![C#](https://img.shields.io/badge/-C%20Sharp-333?style=flat&logo=CSharp&logoColor=239120)
